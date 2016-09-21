@@ -1,3 +1,7 @@
+##### [jam3-lesson](https://github.com/Jam3/jam3-lesson) » webgl » shader-intro
+
+---
+
 # WebGL Lessons — Fragment Shaders
 
 Shaders are a key concept in WebGL and graphics programming, so this lesson will be one of the first in our `jam3-lesson-webgl` series. Even if you only end up working with higher level abstractions (like ThreeJS and materials), understanding shaders will give you a better appreciation of the entire graphics pipeline.
