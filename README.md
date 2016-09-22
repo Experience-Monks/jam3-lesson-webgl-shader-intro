@@ -335,3 +335,8 @@ Stay tuned! :smile:
 
 - [The Book of Shaders](https://thebookofshaders.com/) by Patricio Gonzalez Vivo
 - [LWJGL Shader Lessons (Java)](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders)
+
+## Authors
+
+- [Jonathan McKinnell](https://twitter.com/jonathanmc)
+- [Matt DesLauriers](https://twitter.com/jonathanmc)
