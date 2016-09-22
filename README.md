@@ -280,6 +280,8 @@ vec4 color = texture2D(iChannel0, uv);
 
 ![scale](./images/scale.png)
 
+# Pinch Distortion
+
 Lastly, let's try something a bit more advanced. We know that `(0.5, 0.5)` is the center of the screen, and if we take the current coordinate and subtract that point, we will end up with a direction vector that gets larger for pixels further away from the center.
 
 ```glsl
