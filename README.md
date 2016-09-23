@@ -329,9 +329,11 @@ Result:
 
 ## Next Steps
 
-That's all for this lesson! Future lessons will explore fragment shaders in ThreeJS, vertex shaders, and other more advanced concepts.
+That's all for this lesson! Our next lesson introduces vertex and fragment shaders in the context of ThreeJS, applying them to a custom geometry.
 
-Stay tuned! :smile:
+[WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs)
+
+Stay tuned for more lessons! :smile:
 
 ## Further Reading
 
