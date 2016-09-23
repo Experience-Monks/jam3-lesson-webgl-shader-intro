@@ -228,7 +228,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
 
 So what is the `uv` for, you might ask? This `vec2` represents the texture coordinates for that pixel, which tells the shader where in the texture the pixels should be fetched.
 
-In WebGL, texture coordinates typically start at `(0.0, 0.0)` in the *lower* left, and go to `(1.0, 1.0)` in the upper left.
+In WebGL, texture coordinates typically start at `(0.0, 0.0)` in the *lower* left, and go to `(1.0, 1.0)` in the upper right.
 
 ![uv](./images/uv.jpg)
 
