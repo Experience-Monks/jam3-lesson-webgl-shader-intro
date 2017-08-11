@@ -288,10 +288,9 @@ Lastly, let's try something a bit more advanced. We know that `(0.5, 0.5)` is th
 vec2 direction = uv - 0.5;
 ```
 
-> :bulb: The above is equivalent to:
+> :bulb: The above is equivalent to:  
 > ```glsl
-vec2 direction = vec2(uv.xy - vec2(0.5, 0.5));
-```
+> vec2 direction = vec2(uv.xy - vec2(0.5, 0.5));  
 
 Now, we can get the *length* or *magnitude* of this vector to determine how far away the current pixel is from the center. We can use this to scale the `uv` coordinates:
 
