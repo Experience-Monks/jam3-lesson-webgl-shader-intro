@@ -343,4 +343,4 @@ Stay tuned for more lessons! :smile:
 ## Authors
 
 - [Jonathan McKinnell](https://twitter.com/jonathanmc)
-- [Matt DesLauriers](https://twitter.com/jonathanmc)
+- [Matt DesLauriers](https://twitter.com/mattdesl)
